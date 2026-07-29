@@ -22,6 +22,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+
+<!-- Optional: once you have a Pikachu GIF URL (e.g. from Giphy), drop it in below -->
+<p align="center">
+  <img src="https://i.gifer.com/3F3I.gif" width="120" />
+  <img src="https://i.gifer.com/2iiJ.gif" width="120" /> 
+  <img src="https://i.gifer.com/3F3I.gif" width="120" />
+</p>
+
+
 <br/>
 
 ```bash
@@ -68,12 +77,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/brandonaurelio/brandonaurelio/output/github-contribution-grid-snake.svg" />
 </p>
-
-<!-- Optional: once you have a Pikachu GIF URL (e.g. from Giphy), drop it in below -->
-<p align="center">
-  <img src="https://i.gifer.com/2iiJ.gif" width="120" />
-</p>
-
 
 
 <p align="center">
