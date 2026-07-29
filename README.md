@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hey%2C%20I'm%20%5BBrandon%20Aurelio%5D&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hey%2C%20I'm%20%5BYour%20Name%5D&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/brandonaurelio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/brandonaurelio/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
@@ -24,12 +24,25 @@
 
 <br/>
 
+```bash
+$ whoami --focus
+
+> Currently studying    : math, stats & programming fundamentals for AI
+> Currently building     : [small project name]
+> Currently reading      : [book / course]
+> Long-term goal         : [e.g. "build my first real ML model from scratch"]
+```
+
+<br/>
+
 <details>
 <summary>🧭 <b>About Me</b> (click to expand)</summary>
 <br/>
 
-- 🎓 First-year AI student at Universiti Teknologi Malaysia
+- 🎓 First-year AI student at [Your University]
 - 🌱 Learning the fundamentals before diving into deep ML/AI work
+- 🛠️ Currently working on: [project 1], [project 2]
+- 💬 Always happy to talk about what I'm learning
 
 </details>
 
@@ -58,7 +71,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[your-username]/[your-username]/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/brandonaurelio/brandonaurelio/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
