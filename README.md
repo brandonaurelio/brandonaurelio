@@ -1,5 +1,10 @@
-<h1 align="center">Hey 👋 I'm [Your Name]</h1>
-<p align="center">Bachelor of AI · Year 1 · Building & learning in public</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hey%2C%20I'm%20%5BYour%20Name%5D&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Bachelor+of+AI+%C2%B7+Year+1;Learning+the+fundamentals;Building+small+projects+as+I+go&font=Fira+Code&center=true&size=20&color=58A6FF&vCenter=true&width=500&height=40" />
+</p>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -30,11 +35,27 @@ $ whoami --focus
 
 <br/>
 
-### 🧭 About Me
+<details>
+<summary>🧭 <b>About Me</b> (click to expand)</summary>
+<br/>
+
 - 🎓 First-year AI student at [Your University]
 - 🌱 Learning the fundamentals before diving into deep ML/AI work
 - 🛠️ Currently working on: [project 1], [project 2]
 - 💬 Always happy to talk about what I'm learning
+
+</details>
+
+<details>
+<summary>📚 <b>Currently Learning</b> (click to expand)</summary>
+<br/>
+
+- [ ] Linear algebra fundamentals
+- [ ] Python data structures
+- [ ] First ML model (following a guided course)
+- [ ] Git & GitHub workflow basics
+
+</details>
 
 <br/>
 
@@ -45,4 +66,14 @@ $ whoami --focus
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/[your-username]/[your-username]/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
 </p>
