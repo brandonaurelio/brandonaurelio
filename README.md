@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2C2C,100:FFCB05&height=180&section=header&text=Hey%2C%20I'm%20%5BYour%20Name%5D&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2C2C,100:FFCB05&height=180&section=header&text=Hey%2C%20I'm%20Brandon%20Aurelio&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -24,10 +24,15 @@
 
 
 <!-- Optional: once you have a Pikachu GIF URL (e.g. from Giphy), drop it in below -->
-<p align="center">
-  <img src="https://i.gifer.com/3F3I.gif" width="120" />
+<p align="left">
   <img src="https://i.gifer.com/2iiJ.gif" width="120" /> 
-  <img src="https://i.gifer.com/3F3I.gif" width="120" />
+  <img src="https://i.gifer.com/2iiJ.gif" width="120" /> 
+  <img src="https://i.gifer.com/2iiJ.gif" width="120" /> 
+  <img src="https://i.gifer.com/2iiJ.gif" width="120" /> 
+  <img src="https://i.gifer.com/2iiJ.gif" width="120" /> 
+  <img src="https://i.gifer.com/2iiJ.gif" width="120" /> 
+  <img src="https://i.gifer.com/2iiJ.gif" width="120" /> 
+  <img src="https://i.gifer.com/2iiJ.gif" width="120" /> 
 </p>
 
 
@@ -36,20 +41,24 @@
 ```bash
 "Fake It Till You Make It"
 > Currently studying    : math, stats & programming fundamentals for AI
-> Currently building     : [small project name]
+> Currently building     : small projects
 > Long-term goal         : build my first real ML model from scratch
 ```
 
 <br/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brandonaurelio/brandonaurelio/output/github-contribution-grid-snake.svg" />
+</p>
+
 <details>
 <summary>🧭 <b>About Me</b> (click to expand)</summary>
 <br/>
 
-- 🎓 First-year AI student at [Your University]
+- 🎓 First-year AI student at University Teknologi Malaysia
 - 🌱 Learning the fundamentals before diving into deep ML/AI work
-- 🛠️ Currently working on: [project 1], [project 2]
-- 💬 Always happy to talk about what I'm learning
+- 💬 Instagram: @brandonaurelioo
+- ✉️ Gmail: brandonnaurelioo@gmail.com
 
 </details>
 
@@ -74,9 +83,7 @@
   <img src="https://raw.githubusercontent.com/brandonaurelio/brandonaurelio/main/metrics.svg" />
 </p>
 <br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/brandonaurelio/brandonaurelio/output/github-contribution-grid-snake.svg" />
-</p>
+
 
 
 <p align="center">
