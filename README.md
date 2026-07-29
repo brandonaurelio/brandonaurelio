@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hey%2C%20I'm%20%5BYour%20Name%5D&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hey%2C%20I'm%20%5BBrandon%20Aurelio%5D&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -24,25 +24,12 @@
 
 <br/>
 
-\`\`\`bash
-$ whoami --focus
-
-> Currently studying    : math, stats & programming fundamentals for AI
-> Currently building     : [small project name]
-> Currently reading      : [book / course]
-> Long-term goal         : [e.g. "build my first real ML model from scratch"]
-\`\`\`
-
-<br/>
-
 <details>
 <summary>🧭 <b>About Me</b> (click to expand)</summary>
 <br/>
 
-- 🎓 First-year AI student at [Your University]
+- 🎓 First-year AI student at Universiti Teknologi Malaysia
 - 🌱 Learning the fundamentals before diving into deep ML/AI work
-- 🛠️ Currently working on: [project 1], [project 2]
-- 💬 Always happy to talk about what I'm learning
 
 </details>
 
@@ -60,12 +47,12 @@ $ whoami --focus
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=brandonaurelio&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonaurelio&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonaurelio&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <br/>
