@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hey%2C%20I'm%20%5BYour%20Name%5D&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C2C2C,100:FFCB05&height=180&section=header&text=Hey%2C%20I'm%20%5BYour%20Name%5D&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -25,12 +25,9 @@
 <br/>
 
 ```bash
-$ whoami --focus
-
 > Currently studying    : math, stats & programming fundamentals for AI
 > Currently building     : [small project name]
-> Currently reading      : [book / course]
-> Long-term goal         : [e.g. "build my first real ML model from scratch"]
+> Long-term goal         : build my first real ML model from scratch
 ```
 
 <br/>
@@ -59,21 +56,25 @@ $ whoami --focus
 
 <br/>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brandonaurelio&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonaurelio&theme=tokyonight&hide_border=true" height="150"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonaurelio&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://raw.githubusercontent.com/brandonaurelio/brandonaurelio/main/metrics.svg" />
 </p>
-
 <br/>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/brandonaurelio/brandonaurelio/output/github-contribution-grid-snake.svg" />
 </p>
 
+<!-- Optional: once you have a Pikachu GIF URL (e.g. from Giphy), drop it in below -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
+  <img src="https://i.gifer.com/2iiJ.gif" width="120" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCB05,100:2C2C2C&height=100&section=footer" />
 </p>
