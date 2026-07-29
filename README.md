@@ -25,6 +25,7 @@
 <br/>
 
 ```bash
+"Fake It Till You Make It"
 > Currently studying    : math, stats & programming fundamentals for AI
 > Currently building     : [small project name]
 > Long-term goal         : build my first real ML model from scratch
