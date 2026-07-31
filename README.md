@@ -24,7 +24,7 @@
 
 
 <!-- Optional: once you have a Pikachu GIF URL (e.g. from Giphy), drop it in below -->
-<p align="left">
+<p align="center">
   <img src="https://i.gifer.com/2iiJ.gif" width="120" /> 
   <img src="https://i.gifer.com/2iiJ.gif" width="120" /> 
   <img src="https://i.gifer.com/2iiJ.gif" width="120" /> 
