@@ -31,8 +31,6 @@
   <img src="https://i.gifer.com/2iiJ.gif" width="120" /> 
   <img src="https://i.gifer.com/2iiJ.gif" width="120" /> 
   <img src="https://i.gifer.com/2iiJ.gif" width="120" /> 
-  <img src="https://i.gifer.com/2iiJ.gif" width="120" /> 
-  <img src="https://i.gifer.com/2iiJ.gif" width="120" /> 
 </p>
 
 
